@@ -1,0 +1,13 @@
+body{
+    background-image: url(/coffe2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    background-color: rgb(58, 56, 54);
+    width: 100px;
+    height: 2px;
+padding: 30px;
+border-radius: 100px;
+float: right;
+}
